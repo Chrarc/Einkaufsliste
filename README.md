@@ -4,7 +4,7 @@
 * Blumenstraße 3
 * Baden Württemberg
 
-![](https://github.com/Chrarc/Einkaufsliste/blob/foto/Drache.png "Persönliches Foto)
+!["Persönliches Foto"](https://github.com/Chrarc/Einkaufsliste/blob/foto/Drache.png)
 
 ## Bildung
 * Elektroniker für Geräte und Systeme
