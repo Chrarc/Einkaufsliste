@@ -4,12 +4,12 @@
 * Blumenstraße 3
 * Baden Württemberg
 
-# Bildung
+## Bildung
 * Elektroniker für Geräte und Systeme
 * Fachhoschulreife
 * Student an der HFU
 
-# Interessen
+## Interessen
 * Fahrradfahren
 * Tanzen
 * Jugendarbeit
